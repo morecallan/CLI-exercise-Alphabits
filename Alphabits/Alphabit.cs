@@ -32,7 +32,7 @@ namespace Alphabits
                 {
                     //After each successful input, display the number of letters already entered.
                     existingAlphabitsList.Add(charToAdd);
-                    Console.WriteLine("You've added {0} valid, unique Alphabits", returnListLength());
+                    Console.WriteLine(String.Format("You've added {0} valid, unique Alphabits", returnListLength()));
                     CheckLengthCountForSuccess();
                 }
             }

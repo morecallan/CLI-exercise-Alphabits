@@ -1,6 +1,0 @@
-Z:\callanmorrison On My Mac\workspace\backend\CLI_exercises\Alphabits\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-Z:\callanmorrison On My Mac\workspace\backend\CLI_exercises\Alphabits\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-Z:\callanmorrison On My Mac\workspace\backend\CLI_exercises\Alphabits\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-Z:\callanmorrison On My Mac\workspace\backend\CLI_exercises\Alphabits\ConsoleApplication1\ConsoleApplication1\obj\Debug\Alphabits.csprojResolveAssemblyReference.cache
-Z:\callanmorrison On My Mac\workspace\backend\CLI_exercises\Alphabits\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-Z:\callanmorrison On My Mac\workspace\backend\CLI_exercises\Alphabits\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
